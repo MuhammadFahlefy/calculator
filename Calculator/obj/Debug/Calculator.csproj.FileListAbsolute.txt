@@ -1,0 +1,18 @@
+D:\Lev\1\Project\Application\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Lev\1\Project\Application\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Lev\1\Project\Application\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Lev\1\Project\Application\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Lev\1\Project\Latihan C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
